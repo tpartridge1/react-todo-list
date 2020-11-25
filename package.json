@@ -2,7 +2,6 @@
   "name": "react-todo-list",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://tpartridge1.github.io/react-todo-list/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^4.2.4",
